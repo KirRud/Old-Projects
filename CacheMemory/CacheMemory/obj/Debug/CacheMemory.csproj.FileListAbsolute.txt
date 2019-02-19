@@ -1,0 +1,10 @@
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\bin\Debug\CacheMemory.exe.config
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\bin\Debug\CacheMemory.exe
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\bin\Debug\CacheMemory.pdb
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csprojResolveAssemblyReference.cache
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.Form1.resources
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.Properties.Resources.resources
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csproj.GenerateResource.Cache
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csproj.CoreCompileInputs.cache
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.exe
+F:\Education\EVM\Kesh3\CacheMemory\CacheMemory\obj\Debug\CacheMemory.pdb
